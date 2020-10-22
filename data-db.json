@@ -1,0 +1,29 @@
+{
+    "products": {
+        "P0123456": {
+            "code": "P0123456",
+            "active": true,            
+            "stock": 4
+        },
+        "P0123457":  {
+            "code": "P0123457",
+            "active": true,            
+            "stock": 4
+        },
+        "P0123458": {
+            "code": "P0123458",
+            "active": true,            
+            "stock": 4
+        },
+        "P0123459": {
+            "code": "P0123459",
+            "active": true,            
+            "stock": 0
+        },
+        "P0123450": {
+            "code": "P0123450",
+            "active": false,            
+            "stock": 0
+        }
+    }
+}
